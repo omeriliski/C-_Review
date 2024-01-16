@@ -8,9 +8,9 @@ using System.Threading.Tasks;
 namespace C__Basics.Entities
 {
     public class Product: EventArgs
-    { 
-        // constructor
-        public Product(string name, int price) 
+    {
+        //// constructor
+        public Product(string name, int price)
         {
             Id = new Random().Next(0, 1000);
             Name = name;
