@@ -1,6 +1,7 @@
 ﻿
 using C__Basics;
 using C__Basics.Entities;
+using static C__Basics.Entities.Product;
 
 Console.WriteLine("------------ Variables -------------------");
 // type Casting
@@ -31,7 +32,7 @@ Console.WriteLine("tomorrow: " + today.AddDays(2));
 
 Console.WriteLine("now:" + DateTime.Now);
 
-Console.WriteLine("------------ Classes -------------------");
+Console.WriteLine("------------ Classes and Methods -------------------");
 Helper.WriteSomething();    // to check puclic...etc
 Console.WriteLine("test:" + Product.test);
 
@@ -41,4 +42,25 @@ Console.WriteLine("id: " + product1.Id + " name: "+ product1.Name + " price: " +
 
 Product product2 = new Product("stuhl", 50);
 Console.WriteLine("id: " + product2.Id + " name: " + product2.Name + " price: " + product2.Price + "Euro");
+product2.Description();
 product2.Description("description: new, cheap, ok");
+
+Console.WriteLine("------------ Delegates -------------------");
+var manpHandler = new Product.ManipulatePrice(product1.Increase); 
+var result = product1.Manipulate(100, 10, manpHandler);
+Console.WriteLine("result: " + result);
+
+var multiply = new Product.ManipulatePrice((arg1, arg2) => arg1 * arg2);
+Console.WriteLine("multiply: " + product1.Manipulate(10,5, multiply));
+
+Console.WriteLine("------------ partial-------------------");
+Customer customer = new Customer() { Id = 1, Name="John", LastName="Doe"};
+Console.WriteLine("id: " + customer.Id+ " name: " + customer.Name + " lastname: " + customer.LastName);
+
+Console.WriteLine("------------ Enums-------------------");
+Console.WriteLine("Enum: " + Product.TaxRate.normal);
+
+Console.WriteLine("------------ Test -------------------");
+
+var increasedPrice = product1.Increase(product1.Price, 10);
+Console.WriteLine("increasedPrice: " + increasedPrice);

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace C__Basics.Entities
 {
-    public class Product
+    public class Product: EventArgs
     { 
         // constructor
         public Product(string name, int price) 
@@ -31,6 +31,9 @@ namespace C__Basics.Entities
         public string Name { get; set; }
         public int Price { get; set; }
 
+
+
+
         // methods
         public string Description(params string[] description) // using params we can send indefinite parameters
         {
@@ -43,9 +46,54 @@ namespace C__Basics.Entities
         }
 
         // method overloading
-        public void Description(string s)
+        public void Description(string s = "description: new, cheap, wonderfull")   // we can give default value to the parameter or send it
         {
             Console.WriteLine(s);
+        }
+
+        public string Description(string s, params string[] description) // when we use more than one parameter, we musst use params at the end
+        {
+            string allDescription = "";
+            foreach (var item in description)
+            {
+                allDescription += item + " ";
+            }
+            return allDescription;
+        }
+
+
+
+
+        // Delegates, (it's like callback)
+        // !!! I don't think that i use it
+        public delegate int ManipulatePrice(int price, int percentage);
+
+        public int Manipulate(int price, int percentage, ManipulatePrice manipulatePrice)
+        {
+            var result = manipulatePrice(price, percentage);
+            return result;
+        }
+
+        // the signature musst match
+        public int Increase(int price, int percentage)
+        {
+            var result = price + price * percentage / 100;
+            return result;
+        }
+
+        public int Decrease(int price, int percentage)
+        {
+            var result = price - price * percentage / 100;
+            return result;
+        }
+
+        // Events
+        // don't need, i think
+
+        // Enum
+        public enum TaxRate
+        {
+            normal, more
         }
     }
 }
