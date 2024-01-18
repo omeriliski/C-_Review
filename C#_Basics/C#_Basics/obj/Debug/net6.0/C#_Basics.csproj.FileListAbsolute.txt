@@ -34,3 +34,4 @@ C:\Users\ÖmerIliski\OneDrive - ditegra GmbH\Desktop\ömer\apps\C# Apps\C_Sharp_
 C:\Users\ÖmerIliski\OneDrive - ditegra GmbH\Desktop\ömer\apps\C# Apps\C_Sharp_Review\C#_Basics\C#_Basics\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
 C:\Users\ÖmerIliski\OneDrive - ditegra GmbH\Desktop\ömer\apps\C# Apps\C_Sharp_Review\C#_Basics\C#_Basics\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
 C:\Users\ÖmerIliski\OneDrive - ditegra GmbH\Desktop\ömer\apps\C# Apps\C_Sharp_Review\C#_Basics\C#_Basics\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ÖmerIliski\OneDrive - ditegra GmbH\Desktop\ömer\apps\C# Apps\C_Sharp_Review\C#_Basics\C#_Basics\bin\Debug\net6.0\LINQtoCSV.dll

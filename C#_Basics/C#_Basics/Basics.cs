@@ -12,6 +12,9 @@ namespace C__Basics
             var logger = loggerFactory.CreateLogger<Program>();
             logger.LogWarning("Uygulama başlatılıyor..........................................................................");
 
+            int a = 10;
+            Console.WriteLine("a: " + a ?? "no a");     // if there is a , it will be written, if not, "no a" will be written
+
             Console.WriteLine("------------ Variables -------------------");
             // type Casting
             decimal valueA = 10;

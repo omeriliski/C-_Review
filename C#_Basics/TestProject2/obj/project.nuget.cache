@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Qcm1sjmKlYLCLyX8x+687gKx3WnSzyMrpbmEy44aF1ce1sOd3V9pFCSmlE9hEtTT4lu9W43ynA+qhdTmF5ZVIg==",
+  "dgSpecHash": "rFnOBBY7HIR0DIym6QoUwY8hgrAfou+AGZ7Wn6c1yzpboDHByWH6kWt1zgPNHJOjDlSW0ryFqy7qPdXFXEOcKA==",
   "success": true,
   "projectFilePath": "C:\\Users\\ÖmerIliski\\OneDrive - ditegra GmbH\\Desktop\\ömer\\apps\\C# Apps\\C_Sharp_Review\\C#_Basics\\TestProject2\\TestProject2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ÖmerIliski\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
+    "C:\\Users\\ÖmerIliski\\.nuget\\packages\\linqtocsv\\1.5.0\\linqtocsv.1.5.0.nupkg.sha512",
     "C:\\Users\\ÖmerIliski\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",
     "C:\\Users\\ÖmerIliski\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
     "C:\\Users\\ÖmerIliski\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
@@ -101,5 +102,16 @@
     "C:\\Users\\ÖmerIliski\\.nuget\\packages\\xunit.extensibility.execution\\2.4.2\\xunit.extensibility.execution.2.4.2.nupkg.sha512",
     "C:\\Users\\ÖmerIliski\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.5\\xunit.runner.visualstudio.2.4.5.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'LINQtoCSV 1.5.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "LINQtoCSV",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }

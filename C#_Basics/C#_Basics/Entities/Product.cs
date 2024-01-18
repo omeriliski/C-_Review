@@ -1,4 +1,5 @@
-﻿using Microsoft.Extensions.Logging;
+﻿using LINQtoCSV;
+using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
 using System.Globalization;
@@ -30,8 +31,14 @@ namespace C__Basics.Entities
 
         // properties
         public const int test = 5;      // it could be used only with classname, not with it's instance
+
+        [CsvColumn(Name = "Id", FieldIndex = 1)]
         public int Id { get; set; }
+
+        [CsvColumn(Name = "Name", FieldIndex = 2)]
         public string Name { get; set; }
+
+        [CsvColumn(Name = "Price", FieldIndex = 3)]
         public int Price { get; set; }
 
 

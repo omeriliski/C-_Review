@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "9yYxkuTOjxDbkaY8II9MrCiWgVPoO9J1nQOrgx6JPUTs+gw/OCKJv461IjkioZWvjV3IzxAurzgUZoazilD7Sg==",
+  "dgSpecHash": "NMLwWOPelNkj2ZZpJ3szkNRxHLAs4YVB8KpPBR3wX5mc3Pm6Z3t5UqbmXhHpRPuhkTN9xzNTnYMVpGNg4t1L/w==",
   "success": true,
   "projectFilePath": "C:\\Users\\ÖmerIliski\\OneDrive - ditegra GmbH\\Desktop\\ömer\\apps\\C# Apps\\C_Sharp_Review\\C#_Basics\\C#_Basics\\C#_Basics.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ÖmerIliski\\.nuget\\packages\\linqtocsv\\1.5.0\\linqtocsv.1.5.0.nupkg.sha512",
     "C:\\Users\\ÖmerIliski\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
     "C:\\Users\\ÖmerIliski\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\ÖmerIliski\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
@@ -12,5 +13,16 @@
     "C:\\Users\\ÖmerIliski\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\ÖmerIliski\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'LINQtoCSV 1.5.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "LINQtoCSV",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }
