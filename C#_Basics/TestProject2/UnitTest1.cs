@@ -1,4 +1,5 @@
 using C__Basics.Entities;
+using Microsoft.Extensions.Logging;
 using System.Diagnostics;
 using System.Globalization;
 using System.Xml.Linq;
@@ -7,6 +8,7 @@ namespace TestProject2
 {
     public class UnitTest1
     {
+        ILoggerFactory loggerFactory = new LoggerFactory();
         // add a unit test for the increase method in the Product class
         [Fact]
         public void IncreaseTest()

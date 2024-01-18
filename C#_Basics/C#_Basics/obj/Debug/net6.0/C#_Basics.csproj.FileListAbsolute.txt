@@ -26,3 +26,11 @@ C:\Users\ÖmerIliski\OneDrive - ditegra GmbH\Desktop\ömer\apps\C# Apps\C_Sharp_
 C:\Users\ÖmerIliski\OneDrive - ditegra GmbH\Desktop\ömer\apps\C# Apps\C_Sharp_Review\C#_Basics\C#_Basics\obj\Debug\net6.0\C#_Basics.pdb
 C:\Users\ÖmerIliski\OneDrive - ditegra GmbH\Desktop\ömer\apps\C# Apps\C_Sharp_Review\C#_Basics\C#_Basics\obj\Debug\net6.0\C#_Basics.genruntimeconfig.cache
 C:\Users\ÖmerIliski\OneDrive - ditegra GmbH\Desktop\ömer\apps\C# Apps\C_Sharp_Review\C#_Basics\C#_Basics\obj\Debug\net6.0\ref\C#_Basics.dll
+C:\Users\ÖmerIliski\OneDrive - ditegra GmbH\Desktop\ömer\apps\C# Apps\C_Sharp_Review\C#_Basics\C#_Basics\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ÖmerIliski\OneDrive - ditegra GmbH\Desktop\ömer\apps\C# Apps\C_Sharp_Review\C#_Basics\C#_Basics\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ÖmerIliski\OneDrive - ditegra GmbH\Desktop\ömer\apps\C# Apps\C_Sharp_Review\C#_Basics\C#_Basics\obj\Debug\net6.0\C#_Basics.csproj.AssemblyReference.cache
+C:\Users\ÖmerIliski\OneDrive - ditegra GmbH\Desktop\ömer\apps\C# Apps\C_Sharp_Review\C#_Basics\C#_Basics\obj\Debug\net6.0\C#_Basics.csproj.CopyComplete
+C:\Users\ÖmerIliski\OneDrive - ditegra GmbH\Desktop\ömer\apps\C# Apps\C_Sharp_Review\C#_Basics\C#_Basics\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ÖmerIliski\OneDrive - ditegra GmbH\Desktop\ömer\apps\C# Apps\C_Sharp_Review\C#_Basics\C#_Basics\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\ÖmerIliski\OneDrive - ditegra GmbH\Desktop\ömer\apps\C# Apps\C_Sharp_Review\C#_Basics\C#_Basics\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\ÖmerIliski\OneDrive - ditegra GmbH\Desktop\ömer\apps\C# Apps\C_Sharp_Review\C#_Basics\C#_Basics\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll

@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "iR80eDpuoIj2xvifkw/xZ/36rcvZBNyrVbBH3BBcqfY9k/eKzYiohQgt2aQscsYq8GDSK77/95HuDC0Mwv2wOQ==",
+  "dgSpecHash": "9yYxkuTOjxDbkaY8II9MrCiWgVPoO9J1nQOrgx6JPUTs+gw/OCKJv461IjkioZWvjV3IzxAurzgUZoazilD7Sg==",
   "success": true,
   "projectFilePath": "C:\\Users\\ÖmerIliski\\OneDrive - ditegra GmbH\\Desktop\\ömer\\apps\\C# Apps\\C_Sharp_Review\\C#_Basics\\C#_Basics\\C#_Basics.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ÖmerIliski\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\ÖmerIliski\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\ÖmerIliski\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\ÖmerIliski\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\ÖmerIliski\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\ÖmerIliski\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\ÖmerIliski\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

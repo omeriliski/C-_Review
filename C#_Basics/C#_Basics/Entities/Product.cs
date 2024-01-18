@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.Extensions.Logging;
+using System;
 using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
@@ -7,9 +8,11 @@ using System.Threading.Tasks;
 
 namespace C__Basics.Entities
 {
+
     public class Product: EventArgs
     {
-        //// constructor
+
+        // constructor
         public Product(string name, int price)
         {
             Id = new Random().Next(0, 1000);
@@ -87,13 +90,28 @@ namespace C__Basics.Entities
             return result;
         }
 
+        // create a method, takes product price as euro and converts it to dollar, return the dollar
+        public decimal ConvertToDollar(int price)
+        {
+            var result = price * 1.2m;
+            return result;
+        }
+
+        // create a method, takes product price as dollar and converts it to euro, return the euro
+        public decimal ConvertToEuro(int price)
+        {
+            var result = price / 1.2m;
+            return result;
+        }
+
         // Events
         // don't need, i think
 
         // Enum
         public enum TaxRate
         {
-            normal, more
+            Normal, More
         }
+
     }
 }
