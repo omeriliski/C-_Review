@@ -1,15 +1,35 @@
 {
   "version": 2,
-  "dgSpecHash": "UzLPTZKGnhYJ+FWIJeJ2HdCbIMAre/ywiAhy4IfWYSezKci/Uacea3jDU1g7WpE+w8tTixUcgsrTNLtyG2D0qQ==",
+  "dgSpecHash": "K0b5BLsuNHD+ymGF7Ez/v/C4XFZxjBKGhwo2Z7+hcA39wmHK75CjrCZLkbvT+Qw3pTQRRgnIxoNzL5QMUEGF3w==",
   "success": true,
   "projectFilePath": "C:\\Users\\ÖmerIliski\\OneDrive - ditegra GmbH\\Desktop\\ömer\\apps\\C# Apps\\C_Sharp_Review\\C#_Basics\\Web_Api\\Web_Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ÖmerIliski\\.nuget\\packages\\linqtocsv\\1.5.0\\linqtocsv.1.5.0.nupkg.sha512",
     "C:\\Users\\ÖmerIliski\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\ÖmerIliski\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\ÖmerIliski\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\ÖmerIliski\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\ÖmerIliski\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\ÖmerIliski\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\ÖmerIliski\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\ÖmerIliski\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ÖmerIliski\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\ÖmerIliski\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "C:\\Users\\ÖmerIliski\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "C:\\Users\\ÖmerIliski\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
-    "C:\\Users\\ÖmerIliski\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+    "C:\\Users\\ÖmerIliski\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "C:\\Users\\ÖmerIliski\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'LINQtoCSV 1.5.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "LINQtoCSV",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }

@@ -30,3 +30,16 @@ C:\Users\ÖmerIliski\OneDrive - ditegra GmbH\Desktop\ömer\apps\C# Apps\C_Sharp_
 C:\Users\ÖmerIliski\OneDrive - ditegra GmbH\Desktop\ömer\apps\C# Apps\C_Sharp_Review\C#_Basics\Web_Api\obj\Debug\net6.0\Web_Api.pdb
 C:\Users\ÖmerIliski\OneDrive - ditegra GmbH\Desktop\ömer\apps\C# Apps\C_Sharp_Review\C#_Basics\Web_Api\obj\Debug\net6.0\Web_Api.genruntimeconfig.cache
 C:\Users\ÖmerIliski\OneDrive - ditegra GmbH\Desktop\ömer\apps\C# Apps\C_Sharp_Review\C#_Basics\Web_Api\obj\Debug\net6.0\ref\Web_Api.dll
+C:\Users\ÖmerIliski\OneDrive - ditegra GmbH\Desktop\ömer\apps\C# Apps\C_Sharp_Review\C#_Basics\Web_Api\bin\Debug\net6.0\C#_Basics.deps.json
+C:\Users\ÖmerIliski\OneDrive - ditegra GmbH\Desktop\ömer\apps\C# Apps\C_Sharp_Review\C#_Basics\Web_Api\bin\Debug\net6.0\C#_Basics.runtimeconfig.json
+C:\Users\ÖmerIliski\OneDrive - ditegra GmbH\Desktop\ömer\apps\C# Apps\C_Sharp_Review\C#_Basics\Web_Api\bin\Debug\net6.0\C#_Basics.exe
+C:\Users\ÖmerIliski\OneDrive - ditegra GmbH\Desktop\ömer\apps\C# Apps\C_Sharp_Review\C#_Basics\Web_Api\bin\Debug\net6.0\LINQtoCSV.dll
+C:\Users\ÖmerIliski\OneDrive - ditegra GmbH\Desktop\ömer\apps\C# Apps\C_Sharp_Review\C#_Basics\Web_Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ÖmerIliski\OneDrive - ditegra GmbH\Desktop\ömer\apps\C# Apps\C_Sharp_Review\C#_Basics\Web_Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ÖmerIliski\OneDrive - ditegra GmbH\Desktop\ömer\apps\C# Apps\C_Sharp_Review\C#_Basics\Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\ÖmerIliski\OneDrive - ditegra GmbH\Desktop\ömer\apps\C# Apps\C_Sharp_Review\C#_Basics\Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ÖmerIliski\OneDrive - ditegra GmbH\Desktop\ömer\apps\C# Apps\C_Sharp_Review\C#_Basics\Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\ÖmerIliski\OneDrive - ditegra GmbH\Desktop\ömer\apps\C# Apps\C_Sharp_Review\C#_Basics\Web_Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ÖmerIliski\OneDrive - ditegra GmbH\Desktop\ömer\apps\C# Apps\C_Sharp_Review\C#_Basics\Web_Api\bin\Debug\net6.0\C#_Basics.dll
+C:\Users\ÖmerIliski\OneDrive - ditegra GmbH\Desktop\ömer\apps\C# Apps\C_Sharp_Review\C#_Basics\Web_Api\bin\Debug\net6.0\C#_Basics.pdb
+C:\Users\ÖmerIliski\OneDrive - ditegra GmbH\Desktop\ömer\apps\C# Apps\C_Sharp_Review\C#_Basics\Web_Api\bin\Debug\net6.0\Newtonsoft.Json.dll
